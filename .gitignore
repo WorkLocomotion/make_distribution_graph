@@ -1,0 +1,44 @@
+# ==============================
+# Work Locomotion - make_distribution_graph
+# .gitignore
+# ==============================
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter and IDE workspace data
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Excel and data outputs
+*.xlsx
+*.xls
+*.csv
+
+# Images, plots, and logs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.log
+*.tmp
+
+# Example or test output folders
+example_output/
+output/
+temp/
